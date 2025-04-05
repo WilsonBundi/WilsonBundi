@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WilsonBundi
+- 👋 Hi, I’m Wilson Bundi a SOFTWARE ENGINEER student @ Kirinyaga University, currently in my last year.
 - 👀 I’m interested in Networking and web development 
 - 🌱 I’m currently learning react typescript, AI, machine learning and flask framework 
 - 💞️ I’m looking to collaborate on vibezconnect social app
