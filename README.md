@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wilson Bundi a SOFTWARE ENGINEER graduate from  Kirinyaga University, currently practicing my intership @ University of Nairobi.
+- 👋 Hi, I’m Wilson Bundi a SOFTWARE ENGINEER graduate from  Kirinyaga University, currently practicing my internship @ University of Nairobi.
 - 👀 I’m interested in Networking and web development 
 - 🌱 I’m currently learning react typescript, AI, machine learning and flask framework 
 - 💞️ I’m looking to collaborate on vibezconnect social app
